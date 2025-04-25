@@ -43,7 +43,7 @@ This project analyzes gender-based bias in machine learning models trained to pr
 
 The models demonstrate higher accuracy for female clients (~3% gap), indicating potential algorithmic bias.
 
-## 📉 Visualization
+## Visualization
 
 Bar plots were generated to show the accuracy differences between gender groups for each model. These visualizations support the detection of bias in model performance.
 
