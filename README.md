@@ -58,6 +58,3 @@ The observed performance gap suggests the presence of bias, which may stem from:
 - Fairness-aware training (e.g., reweighting, threshold adjustment)
 - Feature engineering to include more predictive factors for underperforming groups
 - More balanced or representative training data
-
-## Project Structure
-
